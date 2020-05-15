@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="nameTV">Name:</string>
+    <string name="your_nameHInt">Your Name</string>
+    <string name="resetText">Reset</string>
+    <string name="reserveText">Reserve</string>
+    <string name="non_smoking_areaCB">Non-smoking area</string>
+    <string name="smoking_areaCB">Smoking Area</string>
+    <string name="smokingText">Check the below box for smoking area:</string>
+    <string name="paxHint">No of Pax</string>
+    <string name="phone_numberHint">Phone Number</string>
+    <string name="phone_noText">Phone No:</string>
+    <string name="beforeText">Please check your details again before making reservation</string>
+</resources>
